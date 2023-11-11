@@ -9,4 +9,5 @@ Mis Aportes a Compañeros (comentarios en Readme.md)
 
 Aportes de Compañeros (comentarios en Readme.md)
 
-https://github.com/jpgit01/jpgit01.github.io.git 
+juan pablo mendez: https://github.com/jpgit01/jpgit01.github.io
+
