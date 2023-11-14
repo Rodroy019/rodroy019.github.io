@@ -13,6 +13,4 @@ https://github.com/Orlando0992/Orlando0992.github.io <br>
 Aportes de Compañeros (comentarios en Readme.md)
 
 juan pablo mendez: https://github.com/jpgit01/jpgit01.github.io
-
-
-COMENTARIO ALEJANDR CATALAN
+A.CATALAN: https://github.com/Alejandro-Catalan-L/Alejandro-Catalan-L.github.io
